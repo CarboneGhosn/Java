@@ -15,7 +15,7 @@ O sistema de login é uma aplicação full stack web, que consiste em um sistema
 ![Login](https://github.com/CarboneGhosn/Java/blob/Login/assets/Login.jpeg)
 
 ## Layout Pessoal
-![Pessoal](https://github.com/CarboneGhosn/Java/blob/Login/assets/Personal.jpeg)
+![Pessoal](https://github.com/CarboneGhosn/Java/blob/Login/assets/Personal.png)
 
 # Tecnologias utilizadas
 ## Back end
